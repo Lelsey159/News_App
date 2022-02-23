@@ -8,7 +8,6 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
 Pillow==7.0.0
-python-apt==2.0.0+ubuntu0.20.4.6
 python-dateutil==2.7.3
 requests==2.22.0
 requests-unixsocket==0.2.0
